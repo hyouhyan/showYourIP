@@ -19,7 +19,7 @@
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="/css/forall.css">
+    <link rel="stylesheet" href="https://hyouhyan.com/css/forall.css">
 </head>
 
 <body class="bg-light">
@@ -46,7 +46,10 @@
         <a class="btn btn-outline-secondary" href="./raw">raw</a>
     </div>
 
-    <script src="/js/footer.js"></script>
+    <footer><small>
+        Email: <a href="mailto:hyouhyan@hyouhyan.com">hyouhyan@hyouhyan.com</a><br>
+        &copy; 2024  <a href="https://hyouhyan.com">Hyouhyan</a>
+    </small></footer>
 </body>
 
 </html>
