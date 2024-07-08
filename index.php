@@ -39,7 +39,7 @@
     </div>
 
     <div class="text-center m-2">
-        <a class="btn btn-outline-primary" href="https://v4.hyouhyan.com/tools/show-ip/">IPv4</a> <a class="btn btn-outline-primary" href="https://v6.hyouhyan.com/tools/show-ip/">IPv6</a>
+        <a class="btn btn-outline-primary" href="" id="v4link">IPv4</a> <a class="btn btn-outline-primary" href="" id="v6link">IPv6</a>
     </div>
 
     <div class="text-center m-2">
@@ -50,6 +50,8 @@
         Email: <a href="mailto:hyouhyan@hyouhyan.com">hyouhyan@hyouhyan.com</a><br>
         &copy; 2024  <a href="https://hyouhyan.com">Hyouhyan</a>
     </small></footer>
+
+    <script src="/script.js"></script>
 </body>
 
 </html>
